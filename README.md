@@ -9,4 +9,6 @@ Unbox and check if you have all the parts by referring to the list below.
 ### mCore (AVR Base)
 ![image](https://github.com/user-attachments/assets/2e294b16-77b2-4571-b247-bd71d0163794)
 
+*H1: Investigate each part of core component*
+
 Reference: https://support.makeblock.com/hc/en-us/articles/12822859943959-A-Beginner-s-Guide-to-mBot
