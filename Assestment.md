@@ -8,3 +8,4 @@ Assestment shoudl be perform by tutor and also self assestment:
 
 ## Self Assestment
 
+![image](https://github.com/user-attachments/assets/d2135d3d-e7e2-459b-9a93-e966cb02525e)
