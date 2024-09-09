@@ -44,3 +44,8 @@ For more information: https://support.makeblock.com/hc/en-us/articles/1279772460
 
 # Assamble mBot
 [Assamble mBot](https://github.com/Robotica76/mbot/blob/main/Assamble_mBot.md)
+
+
+# Activities
+
+[Activities](https://github.com/Robotica76/mbot/blob/main/Activities.md)
