@@ -25,3 +25,20 @@ More information: **https://support.makeblock.com/hc/en-us/articles/127976625577
 
 
 Reference: https://support.makeblock.com/hc/en-us/articles/12822859943959-A-Beginner-s-Guide-to-mBot
+
+## Me Line Follower
+
+![image](https://github.com/user-attachments/assets/4d6c8784-e607-4c29-ae4d-df314213131a)
+
+Me Line Follower is designed for line-following robots. There are two sensors, each with an IR transmitting LED and an IR static induction phototransistor. mBot can move along a black line on a white background or a white line on a black background. It features fast detection and simple circuits. The blue tag on the interface of this module indicates that it is a dual digital interface and that it should be connected to a port with the blue tag on the main control board.
+
+More information: **https://support.makeblock.com/hc/en-us/articles/12797544445847-About-Me-Line-Follower-for-mBot**
+
+## Geared Motor
+
+![image](https://github.com/user-attachments/assets/30857131-a42d-4f82-bf64-ac894dc388f7)
+
+TT Geared Motor DC 6 V / 200 RPM is the new power source with plastic gears. The TT Geared Motor perfectly works with Makeblock Plastic Timing Pulley 62T and Plastic Timing Pulley 90T for the wheel systems of DIY projects. It can be used to power mBot.
+
+For more information: https://support.makeblock.com/hc/en-us/articles/12797724604823-About-TT-Geared-Motor-DC-6-V-200-RPM-for-mBot 
+
