@@ -1,3 +1,6 @@
+1. The current robotics class is planned to schedule every Saturday starting from Sep 21, 2024 to end of middle school classes.
+
+
 # Assestment
 
 Assestment shoudl be perform by tutor and also self assestment:
