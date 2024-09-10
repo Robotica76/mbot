@@ -8,6 +8,8 @@
 8. The students must be use mBlock v5.x to develop the programs
 9. The students must be take care of rebotic devices
 
+10. NO PHONES ALLOWED
+
 # Assestment
 
 Assestment shoudl be perform by tutor and also self assestment:
